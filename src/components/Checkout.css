@@ -1,0 +1,43 @@
+.checkout__container{
+    
+    background-image: linear-gradient(to bottom right, #070200, #3b1d12);
+    margin-top: 10%;
+}
+tr{
+    color: white;
+}
+.checkout__img{
+    border-radius: 10px;
+}
+
+.checkout__button{
+    width: 30px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.checkout__button:hover{
+    background-color: orange;
+    color: white;
+}
+.checkout__button:active{
+    outline: none;
+}
+.checkout__button__buy{
+    background-color: white;
+    width:100%;
+    height: 40px;
+    border-radius: 5px;
+    border:  none;
+    margin-top: 15px;
+    object-fit: contain;
+}.delete{
+    cursor: pointer;
+}
+.icon {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}

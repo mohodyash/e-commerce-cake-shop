@@ -1,0 +1,48 @@
+.viewcard {
+  padding: 14px;
+  background-image: linear-gradient(to bottom right, #070200, #3b1d12);
+  color: white;
+}
+
+.path {
+  margin: 10px;
+}
+.reviews {
+  margin-left: 15px;
+}
+.info{
+    margin-top: 20px;
+}
+.viewimg {
+    border-radius: 8px !important;
+    margin-top: 10px !important;
+}
+.button button {
+  color: white;
+  margin-top: 20px;
+  border: 1px solid wheat;
+  border-radius: 10px;
+
+}
+.smallimg{
+    margin-top: 10px;
+}
+.rating{
+    color:orange ;
+    font-size: 20px; 
+}
+.button button:hover {
+  color: white;
+  border: 1px solid #cd9042;
+}
+.button__add {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+}
+.button__buy {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  margin-left: 20px;
+}
